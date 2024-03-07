@@ -57,7 +57,7 @@
                                         <li><a href="../roles/roles.php">Roles</a></li>
                                         <!-- <li><a href="../../recetas/receta.php">Recetas</a></li> -->
                                         <!-- <li><a href="../medicamentos/medicamentos.php">Medicamento</a></li> -->
-                                        <li><a href="../especialidades/especialidades.php">especialidades</a></li>
+                                        <!-- <li><a href="../especialidades/especialidades.php">especialidades</a></li> -->
                                     </ul>
                                 </nav>
                                 <nav class="header__menu">
